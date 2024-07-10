@@ -114,8 +114,8 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
-            "coin": null,
+            "algo": rx/0,
+            "coin": BTC,
             "url": "xelishash.unmineable.com:443",
             "user": "bc1q322rq49kk58dey2t4nzqdwfdsfzc8kagwer6yu",
             "pass": "null",
@@ -123,7 +123,7 @@
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "sni": false,
             "tls-fingerprint": null,
             "daemon": false,
